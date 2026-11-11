@@ -1,0 +1,9 @@
+[project]
+name = "hydrodaq"
+version = "0.1.0"
+description = "A data acquisition and analysis system for hydraulic sensor measurements."
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
