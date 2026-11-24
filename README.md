@@ -25,4 +25,4 @@ Future development will introduce hardware-based data acquisition.
 
 ## Status
 
-<escape>🚧</escape> In development.
+In early development.
